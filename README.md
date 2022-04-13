@@ -3,7 +3,7 @@
 ### Only software here.
 ### For hardware we used a water level sensor, weight sensor and temperature & humidity sensor (DHT-11)
 
-What the project is about\n:
+What the project is about:  
 This project helps Zoos monitor their place, with the help of "Safe Zoo",
 An automatic system that makes sure the animals in the zoo are safe.
 For example, when the temperature is too hot, it alerts the zoo.
