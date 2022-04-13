@@ -24,9 +24,9 @@ except Exception as err:
 פרטים מלאים על כל פונקציה מצורפים.
 '''
 
-
-EMAIL = 'NavePython@gmail.com'
-PASSWORD = '123456789Python'
+# email that will be used to send and receive messages (it will send messages to itself)
+EMAIL = 'Your email here'
+PASSWORD = 'Your password here'
 
 class ZooManager():
     # המחלקה הראשית לניהול גן החיות
