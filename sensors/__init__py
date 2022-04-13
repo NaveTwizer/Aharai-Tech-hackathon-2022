@@ -1,1 +1,3 @@
-
+# An empty __init__ file to let python know this folder will be used as a module.
+# Without this file, we can not import anything from this folder outside the folder itself.
+# To read more see https://careerkarma.com/blog/what-is-init-py/
