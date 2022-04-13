@@ -1,6 +1,6 @@
 try:
     from datetime import datetime as dt
-    from sensors.all import temperature, WaterLevel, weight
+    from sensors import temperature, WaterLevel, weight
     from utils import Utils
     
     import os
@@ -25,8 +25,8 @@ except Exception as err:
 '''
 
 
-EMAIL = 'Your email here'
-PASSWORD = 'Your password here'
+EMAIL = 'NavePython@gmail.com'
+PASSWORD = '123456789Python'
 
 class ZooManager():
     # המחלקה הראשית לניהול גן החיות
