@@ -7,4 +7,5 @@ What the project is about:
 This project helps Zoos monitor their place, with the help of "Safe Zoo",
 An automatic system that makes sure the animals in the zoo are safe.
 For example, when the temperature is too hot, it alerts the zoo.
-When there's no food and / or water, it also alerts the zoo.
+When there's no food and / or water, it also alerts the zoo.  
+This system can also be used to help companies recieve real-world real-time data for their use.
