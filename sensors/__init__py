@@ -1,3 +1,5 @@
-# An empty __init__ file to let python know this folder will be used as a Python package.
+# An empty __init__ file to let python know this folder will be used as a python package.
 # Without this file, we can not import anything from this folder outside the folder itself.
 # To read more see https://careerkarma.com/blog/what-is-init-py/
+# This file will be executed automatically when we import stuff from the package.
+print("To whoever reading this, you're awesome!")
