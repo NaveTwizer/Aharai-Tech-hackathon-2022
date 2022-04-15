@@ -28,7 +28,7 @@ except Exception as err:
 EMAIL = 'Your email here'
 PASSWORD = 'Your password here'
 
-class ZooManager():
+class ZooManager:
     # המחלקה הראשית לניהול גן החיות
     def setup_needed_files() -> None:
         # פונקציה המתקינה קבצים ותיקיות נדרשות לאחסון המידע
