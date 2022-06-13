@@ -12,4 +12,4 @@ The system records 24 times a day data from the sensors, and writes it to a txt 
 At the start of each new day, the txt file from yesterday will be mailed to the Zoo.
 This system can also be used to help companies recieve real-world real-time data for their use.  
 Picture:  
-![Happy Christmas](Picture.png)
+![System Setup](Picture.png)
